@@ -1,0 +1,17 @@
+{
+  "fileKey": "TGdFRg82kZf9hefJ6zBkKU",
+  "fileUrl": "https://www.figma.com/design/TGdFRg82kZf9hefJ6zBkKU/Untitled?node-id=0-1&t=t3HsvizUu8DPMbvh-1",
+  "accessToken": "figd_EkXKim3KzjHPeM5GnSb1qcbY7yu7Oc1PvME8CnBv",
+  "screens": [
+    { "id": "10:11125", "name": "01 · Masuk" },
+    { "id": "10:11126", "name": "02 · Daftar organisasi" },
+    { "id": "10:11127", "name": "03 · Dashboard" },
+    { "id": "10:11199", "name": "04 · Transaksi" },
+    { "id": "10:11271", "name": "05 · Tambah transaksi" },
+    { "id": "10:11343", "name": "06 · Data anggota" },
+    { "id": "10:11415", "name": "07 · Iuran" },
+    { "id": "10:11487", "name": "08 · Laporan keuangan" },
+    { "id": "10:11559", "name": "09 · Pengaturan" },
+    { "id": "10:12989", "name": "10 · Dashboard — sidebar diciutkan" }
+  ]
+}
